@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+header{
+    margin: 0x;
+    background-color: brown;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+#nome-cafeteria{
+    color: white;
+}
+#logo-cafeteria{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+}
